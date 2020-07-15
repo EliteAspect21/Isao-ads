@@ -1,0 +1,14 @@
+{
+    "embed": {
+        "title": "Introducing Trike Bot!",
+        "color": 16714454,
+        "description": "Trike Bot is a multipurpose moderation,fun, and economy bot to bring your server alive and fun again! With an easy prefix of .. Its mobile friendly as well! \n",
+        "footer": {
+            "icon_url": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/c0/48/7dc04815-fbc2-3d68-a1d9-f320ac86818c/source/256x256bb.jpg",
+            "text": "Isao RPG - Ad System"
+        },
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/726907953218846811/731847509403762708/trike.png"
+        }
+    }
+}

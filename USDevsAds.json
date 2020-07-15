@@ -1,0 +1,15 @@
+{
+    "embed": {
+        "title": "Get your ad here!",
+        "color": 16714454,
+        "description": "Want your ad here? Head over to adverts.usdevs.net, and make your ad! You gets 2 weeks (14 days!) of free advertisement, and after that, it is only $0.20 USD a day!",
+        "footer": {
+            "icon_url": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/c0/48/7dc04815-fbc2-3d68-a1d9-f320ac86818c/source/256x256bb.jpg",
+            "text": "Isao RPG - Ad System"
+        },
+        "url": "https://adverts.usdevs.net",
+        "thumbnail": {
+            "url": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/c0/48/7dc04815-fbc2-3d68-a1d9-f320ac86818c/source/256x256bb.jpg"
+        }
+    }
+}

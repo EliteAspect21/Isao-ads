@@ -1,0 +1,15 @@
+{
+    "embed": {
+        "title": "Need a reliable host? Introducing ForestRacks!",
+        "color": 16714454,
+        "description": "ForestRacks provides the most reliable and affordable enterprise grade server hosting with the promise to always put customers before profits. We at the USDevs Network trust ForestRacks to keep our websites and Discord bots up and running. They provide amazing support when we are having troubles, and they have an amazing uptime of 99.999% !",
+        "footer": {
+            "icon_url": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/c0/48/7dc04815-fbc2-3d68-a1d9-f320ac86818c/source/256x256bb.jpg",
+            "text": "Isao RPG - Ad System"
+        },
+        "url": "https://forestracks.com",
+        "thumbnail": {
+            "url": "https://cdn.discordapp.com/attachments/703860871129989161/728041016895996005/tree_square_11.09.20_PM.png"
+        }
+    }
+}
